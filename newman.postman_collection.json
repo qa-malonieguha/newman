@@ -1,0 +1,21 @@
+{
+	"info": {
+		"_postman_id": "690a22ab-42ae-4e65-9ee3-fe78ab891845",
+		"name": "newman",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "https://currency-exchange.p.rapidapi.com/exchange?from=GBP&to=SEK&q=1.0",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}
